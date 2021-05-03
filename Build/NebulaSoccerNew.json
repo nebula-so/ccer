@@ -1,0 +1,16 @@
+{
+"companyName": "Max_inc",
+"productName": "NebulaSoccer·io",
+"productVersion": "1.0",
+"dataUrl": "NebulaSoccerNew.data.unityweb",
+"wasmCodeUrl": "NebulaSoccerNew.wasm.code.unityweb",
+"wasmFrameworkUrl": "NebulaSoccerNew.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
